@@ -8,7 +8,7 @@ package {
     default_applicable_licenses: ["external_flac_license"],
 }
 
-cc_library_static {
+cc_library {
     name: "libFLAC",
     vendor_available: true,
     host_supported: true,
