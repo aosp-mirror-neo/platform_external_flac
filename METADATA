@@ -16,6 +16,9 @@ third_party {
   version: "1.4.3"
   license_type: BY_EXCEPTION_ONLY
   license_note: "Would be RESTRICTED save for GFDL in: README, COPYING.FDL, and doc/html/flac.css"
+  security {
+    tag: "NVD-CPE2.3:cpe:/a:flac_project:flac:1.4.3"
+  }
   last_upgrade_date {
     year: 2023
     month: 6
